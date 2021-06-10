@@ -24,7 +24,7 @@ var winningsound;
 function preload(){
   hero2=loadImage("HERO1.webp")
   plant2=loadImage("medicine.webp")
-  keypadsound=loadSound("jump.mp3")
+  //keypadsound=loadSound("jump.mp3")
   gameoverimg=loadImage("GAMEOVER.webp")
   enemy=loadImage("virusimg1.svg")
   winimg=loadImage("win.png")
